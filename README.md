@@ -814,7 +814,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
-    - [ ] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
+    - [x] [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
     - [ ] [Introduction (video)](https://www.coursera.org/lecture/data-structures/introduction-2OpTs)
     - [ ] [Binary Trees (video)](https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees)
     - [ ] [Tree Height Remark (video)](https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark)
